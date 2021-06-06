@@ -1,0 +1,17 @@
+html,
+.body {
+  background: #ffff;
+}
+
+.container {
+  padding: 32px 130px 25px;
+  height: 100vh;
+}
+
+.header {
+  background: red;
+  margin: 0 auto;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+}
